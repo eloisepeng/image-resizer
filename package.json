@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/eloisepeng/image-resizer/issues"
   },
-  "homepage": "https://github.com/eloisepeng/image-resizer#readme"
+  "homepage": "https://github.com/eloisepeng/image-resizer#readme",
+  "dependencies": {
+    "node-img-resizer": "^1.0.4"
+  }
 }
