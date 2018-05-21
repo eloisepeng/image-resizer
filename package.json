@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/eloisepeng/image-resizer#readme",
   "dependencies": {
-    "node-img-resizer": "^1.0.4"
+    "image-size": "^0.6.2",
+    "node-img-resizer": "^1.0.4",
+    "resize-img": "^1.1.2"
   }
 }
